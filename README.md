@@ -1,13 +1,5 @@
 # Исследовательский проект в Jupyter Notebook предсказывающий активность покупателей магазина в течение 3-х месяцев.
 
-## Состав репозитория
-
-project_shop/
-├── 877ee7f1-972c-420b-bef9-26589625d782.ipynb   # основной ноутбук проекта
-├── market_file.csv
-├── market_money.csv
-├── market_time.csv
-└── money.csv￼
 
 ## Требования
 	•	Python 3.x
